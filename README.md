@@ -63,6 +63,7 @@ This is a list of top papers about knowledge graph (KG)-aware recommendations.
 * [CKE] [Collaborative Knowledge Base Embedding for Recommender Systems](https://dl.acm.org/doi/10.1145/2939672.2939673) (KDD 16)
 * [KTUP] [Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences](https://arxiv.org/abs/1902.06236) (WWW 19)
 * [Hyper-know] [Knowledge-Enhanced Top-K Recommendation in Poincar´e Ball](https://arxiv.org/abs/2101.04852) (AAAI 21)
+* [UGRec] [Modeling Directed and Undirected Relations for Recommendation](https://arxiv.org/abs/2105.04183) (SIGIR 21)
 
 ### Path based
 
@@ -78,4 +79,6 @@ This is a list of top papers about knowledge graph (KG)-aware recommendations.
 * [CKAN] [CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems](https://dl.acm.org/doi/10.1145/3397271.3401141) (SIGIR 20)
 * [ATBRG] [ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](https://arxiv.org/abs/2005.12002) (SIGIR 20)
 * [KGIN] [Learning Intents behind Interactions with Knowledge Graph for Recommendation](https://arxiv.org/abs/2102.07057) (WWW 21) 
+* [KCAN] [Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482331) (CIKM 21)
+* [LKGR] [Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation](https://arxiv.org/abs/2108.06468) (WSDM 22)
 
