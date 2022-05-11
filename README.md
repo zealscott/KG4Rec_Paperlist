@@ -82,6 +82,10 @@ This is a list of top papers about knowledge graph (KG)-aware recommendations.
 * [KCAN] [Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482331) (CIKM 21)
 * [LKGR] [Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation](https://arxiv.org/abs/2108.06468) (WSDM 22)
 * [HAKG] [Hierarchy-Aware Knowledge Gated Network for Recommendation](https://arxiv.org/abs/2204.04959) (SIGIR 22)
+* [MCCLK] [Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System](https://arxiv.org/abs/2204.08807) (SIGIR 22)
+* [KGCL] [Knowledge Graph Contrastive Learning for Recommendation](SIGIR 22)
 * [AKGAN] [Learning item attributes and user interests for knowledge graph enhanced recommendation](https://arxiv.org/abs/2112.09425) (Arxiv)
 
+### Reinforcement
+* [ADAC] [Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3397271.3401171)
 
