@@ -87,5 +87,7 @@ This is a list of top papers about knowledge graph (KG)-aware recommendations.
 * [AKGAN] [Learning item attributes and user interests for knowledge graph enhanced recommendation](https://arxiv.org/abs/2112.09425) (Arxiv)
 
 ### Reinforcement
-* [ADAC] [Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3397271.3401171)
+* [ADAC] [Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3397271.3401171) (SIGIR 20)
+* [AnchorKG] [Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning](https://dl.acm.org/doi/abs/10.1145/3447548.3467315) (KDD 21)
+* [ReMR] [Multi-level Recommendation Reasoning over Knowledge Graphs with Reinforcement Learning](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/WWW2022_Multi_level_Reasoning_submission_camera_ready.pdf) (WWW 22)
 
