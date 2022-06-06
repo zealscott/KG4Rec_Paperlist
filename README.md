@@ -83,11 +83,12 @@ This is a list of top papers about knowledge graph (KG)-aware recommendations.
 * [LKGR] [Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation](https://arxiv.org/abs/2108.06468) (WSDM 22)
 * [HAKG] [Hierarchy-Aware Knowledge Gated Network for Recommendation](https://arxiv.org/abs/2204.04959) (SIGIR 22)
 * [MCCLK] [Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System](https://arxiv.org/abs/2204.08807) (SIGIR 22)
-* [KGCL] [Knowledge Graph Contrastive Learning for Recommendation](SIGIR 22)
+* [KGCL] [Knowledge Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2205.00976) (SIGIR 22)
 * [AKGAN] [Learning item attributes and user interests for knowledge graph enhanced recommendation](https://arxiv.org/abs/2112.09425) (Arxiv)
 
-### Reinforcement
+### Explainations
 * [ADAC] [Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3397271.3401171) (SIGIR 20)
 * [AnchorKG] [Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning](https://dl.acm.org/doi/abs/10.1145/3447548.3467315) (KDD 21)
 * [ReMR] [Multi-level Recommendation Reasoning over Knowledge Graphs with Reinforcement Learning](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/WWW2022_Multi_level_Reasoning_submission_camera_ready.pdf) (WWW 22)
+* [PLM-Rec] [Path Language Modeling over Knowledge Graphs for Explainable Recommendation](https://dl.acm.org/doi/10.1145/3485447.3511937) (WWW 22)
 
